@@ -9,3 +9,10 @@ To decode the compressedFile
 
 ![image](https://user-images.githubusercontent.com/76548962/216417834-b540eb52-7175-4aea-a83e-2bb28c7d356a.png)
 
+
+some usefull resources :
+https://coderspacket.com/huffman-coding-implementation-for-text-files-in-c
+https://www.geeksforgeeks.org/huffman-decoding/?ref=rp
+https://en.wikipedia.org/wiki/Huffman_coding
+https://www.geeksforgeeks.org/text-file-compression-and-decompression-using-huffman-coding/
+
