@@ -11,9 +11,9 @@ To decode the compressedFile
 
 
 some usefull resources :
-1) https://coderspacket.com/huffman-coding-implementation-for-text-files-in-c
-2) https://www.geeksforgeeks.org/huffman-decoding/?ref=rp
-3) https://en.wikipedia.org/wiki/Huffman_coding
-4) https://www.geeksforgeeks.org/text-file-compression-and-decompression-using-huffman-coding/
-5) https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/
+
+1) https://www.geeksforgeeks.org/huffman-decoding/?ref=rp
+2) https://en.wikipedia.org/wiki/Huffman_coding
+3) https://www.geeksforgeeks.org/text-file-compression-and-decompression-using-huffman-coding/
+4) https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/
 
